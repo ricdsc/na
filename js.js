@@ -19,7 +19,7 @@ var gooLines = [
     "frogts mi ned", 
     "ned reden",
     "hob gsogt onfonga",
-    "onfonga!"
+    "onfonga!",
     "sessel kneackin aufhean"
 ];
 
@@ -42,4 +42,5 @@ setInterval(showRandomLine, 3000);
 
 // Initial call
 showRandomLine();
+
 
