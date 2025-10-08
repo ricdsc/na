@@ -20,6 +20,7 @@ var gooLines = [
     "ned reden",
     "hob gsogt onfonga",
     "onfonga!"
+    "sessel kneackin aufhean"
 ];
 
 var gooEl = document.getElementById("gooLines");
@@ -41,3 +42,4 @@ setInterval(showRandomLine, 3000);
 
 // Initial call
 showRandomLine();
+
